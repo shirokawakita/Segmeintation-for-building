@@ -1,1 +1,1 @@
-# Segmeintation-for-building
+# Segmentation-for-building
